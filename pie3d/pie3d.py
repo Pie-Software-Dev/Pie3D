@@ -5,7 +5,7 @@ from direct.gui.OnscreenText import OnscreenText
 import sys, json
 import pygame
 
-with open("config.json", "r") as f: config = json.load(f);f.close()
+with open("../config.json", "r") as f: config = json.load(f);f.close()
 
 
 

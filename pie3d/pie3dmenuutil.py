@@ -6,7 +6,7 @@ def launchMenu():
     pygame.init()
     surface = pygame.display.set_mode((600, 400))
 
-    with open("config.json", "r") as f: config = json.load(f);f.close()
+    with open("../config.json", "r") as f: config = json.load(f);f.close()
 
     def start_the_game():
         pie3d.menuPlayMap()
