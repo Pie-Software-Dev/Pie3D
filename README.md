@@ -48,4 +48,4 @@ from pie3d.pie3dmenuutil import launchMenu
 launchMenu()
 ```
 
-Now, run your python file. You just made a basic game with Pie3D
+Now, run your python file. You just made a basic game with Pie3D!
