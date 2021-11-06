@@ -1,0 +1,14 @@
+{
+    "playerSettings": {
+        "walkSpeed": 50,
+        "PlayerHeight": 0.9
+    },
+    "screenSettings":{
+        "tooltip": "Pie3D Demo"
+    },
+    "gameSettings":{
+        "title": "Pie3D Demo",
+        "starterMap": "levels/level.egg",
+        "level1": "levels/level.egg"
+    }
+}
